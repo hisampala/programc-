@@ -1,0 +1,8 @@
+D:\project\c#\appV1\appV1\bin\Debug\appV1.exe.config
+D:\project\c#\appV1\appV1\bin\Debug\appV1.exe
+D:\project\c#\appV1\appV1\bin\Debug\appV1.pdb
+D:\project\c#\appV1\appV1\obj\Debug\appV1.csproj.AssemblyReference.cache
+D:\project\c#\appV1\appV1\obj\Debug\appV1.csproj.SuggestedBindingRedirects.cache
+D:\project\c#\appV1\appV1\obj\Debug\appV1.csproj.CoreCompileInputs.cache
+D:\project\c#\appV1\appV1\obj\Debug\appV1.exe
+D:\project\c#\appV1\appV1\obj\Debug\appV1.pdb
